@@ -1,4 +1,4 @@
-# Share-Places-MERN-App-udemy-maheshsp123
+# Share Places MERN App -  Udemy
 This is developed as per the instructions given in Udemy course on MERN Stack.<BR> 
 
 MOOC Course Title: [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
